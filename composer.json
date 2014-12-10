@@ -1,5 +1,5 @@
 {
-    "name": "developeruz/yii2-tinyMce-widget",
+    "name": "developeruz/yii2-tinymce-widget",
     "description": "tinyMce input widget for Yii2",
     "keywords": ["yii2", "widget", "tinymce"],
     "type": "yii2-extension",
@@ -17,7 +17,7 @@
     },
     "autoload": {
         "psr-4": {
-            "developeruz\\tinyMce\\": ""
+            "developeruz\\tinymce\\": ""
         }
     }
 }

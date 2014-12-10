@@ -1,5 +1,5 @@
 <?php
-namespace developeruz\tinyMce;
+namespace developeruz\tinymce;
 
 use yii\web\AssetBundle;
 
