@@ -1,0 +1,23 @@
+{
+    "name": "developeruz/yii2-tinyMce-widget",
+    "description": "tinyMce input widget for Yii2",
+    "keywords": ["yii2", "widget", "tinymce"],
+    "type": "yii2-extension",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Elvira Sheina",
+            "email": "elleuz@gmail.com",
+            "homepage": "http://developer.uz"
+        }
+    ],
+    "require" : {
+        "yiisoft/yii2": "*",
+        "tinymce/tinymce": ">= 4"
+    },
+    "autoload": {
+        "psr-4": {
+            "developeruz\\tinyMce\\": ""
+        }
+    }
+}
