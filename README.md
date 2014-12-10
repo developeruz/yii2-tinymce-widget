@@ -2,7 +2,7 @@ InputWidget для текстовых полей на основе tinyMce
 ===================
 Установка:
 ```bash
-$ php composer.phar require developeruz/yii2-tinyMce-widget "*"
+$ php composer.phar require developeruz/yii2-tinymce-widget "*"
 ```
 ###Простое использование###
 ```php
